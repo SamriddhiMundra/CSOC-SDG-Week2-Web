@@ -1,5 +1,6 @@
 # My Snippet Hub
-This is a simple and elegant SnippetHub built with React, Redux Toolkit, Tailwind CSS, and React Router. Create, view, edit, delete, and share text snippets (pastes) easily with local storage support.
+
+This is my solution to CSOC SDG Web Week2 challenge. It is a simple and elegant SnippetHub built with React, Redux Toolkit, Tailwind CSS, and React Router. Create, view, edit, delete, and share text snippets (pastes) easily with local storage support.
 
 ## Features
 Create & update notes with title and content
@@ -15,3 +16,8 @@ Redux Toolkit
 Tailwind CSS
 LocalStorage
 React Hot Toast for notifications
+
+### 
+Name: Samriddhi Mundra
+Branch: Chemical (part2)
+Roll no.: 24045172
