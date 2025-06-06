@@ -11,11 +11,11 @@ Data persists using localStorage
 Styled using Tailwind CSS and animated transitions
 
 ## Tech Stack
-React + React Router DOM
-Redux Toolkit
-Tailwind CSS
-LocalStorage
-React Hot Toast for notifications
+##### React + React Router DOM
+##### Redux Toolkit
+##### Tailwind CSS
+##### LocalStorage
+##### React Hot Toast for notifications
 
 ### 
 Name: Samriddhi Mundra
