@@ -2,14 +2,14 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 export const Navbar = () => {
   return (
-    <div>
-        <NavLink className='flex flex-row gap-4'>
+    <nav className="bg-gray-900 text-white px-6 py-4 shadow-lg flex gap-6 text-lg font-medium">
+        <NavLink to="/" className={({ isActive }) => isActive ? "underline text-blue-400" : ""}>
             Home
             </NavLink>
 
-        <NavLink>
+        <NavLink to="/pastes" className={({ isActive }) => isActive ? "underline text-blue-400" : ""}>
             Pastes
             </NavLink>
-    </div>
+    </nav>
   )
 }
